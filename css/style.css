@@ -1,5 +1,4 @@
 @charset "UTF-8";
-<<<<<<< HEAD
 h1 {
   background-color: red;
   color: #ffffff;
@@ -7,11 +6,10 @@ h1 {
 p {
   background-color: blue;
   color: #ffffff;
-=======
+}
 
 h1 {
   color: orange;
->>>>>>> f037f094c883eeaced379085fa284005c34fd700
 }
 body {
     background-color: #eee8aa;
